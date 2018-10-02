@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_FactoryMethod\bin\Debug\_FactoryMethod.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_FactoryMethod\bin\Debug\_FactoryMethod.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_FactoryMethod\bin\Debug\_FactoryMethod.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_FactoryMethod\obj\Debug\_FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_FactoryMethod\obj\Debug\_FactoryMethod.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_FactoryMethod\obj\Debug\_FactoryMethod.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_FactoryMethod\bin\Debug\_FactoryMethod.exe.config
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_FactoryMethod\obj\Debug\_FactoryMethod.exe
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_FactoryMethod\obj\Debug\_FactoryMethod.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_FactoryMethod\bin\Debug\_FactoryMethod.exe
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_FactoryMethod\bin\Debug\_FactoryMethod.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_FactoryMethod\obj\Debug\_FactoryMethod.csprojResolveAssemblyReference.cache

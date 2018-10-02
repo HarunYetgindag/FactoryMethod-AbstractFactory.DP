@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_AbstractFactory\bin\Debug\_AbstractFactory.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_AbstractFactory\bin\Debug\_AbstractFactory.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_AbstractFactory\bin\Debug\_AbstractFactory.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_AbstractFactory\obj\Debug\_AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_AbstractFactory\obj\Debug\_AbstractFactory.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 3\_Abstract\_AbstractFactory\obj\Debug\_AbstractFactory.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_AbstractFactory\bin\Debug\_AbstractFactory.exe.config
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_AbstractFactory\obj\Debug\_AbstractFactory.exe
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_AbstractFactory\obj\Debug\_AbstractFactory.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_AbstractFactory\bin\Debug\_AbstractFactory.exe
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_AbstractFactory\bin\Debug\_AbstractFactory.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 3\_Abstract\_AbstractFactory\obj\Debug\_AbstractFactory.csprojResolveAssemblyReference.cache
